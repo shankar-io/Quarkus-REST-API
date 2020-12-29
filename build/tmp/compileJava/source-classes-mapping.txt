@@ -1,0 +1,7 @@
+org/acme/resteasyjackson/MyObjectMapperCustomizer.java
+ org.acme.resteasyjackson.MyObjectMapperCustomizer
+org/acme/GreetingResource.java
+ org.acme.GreetingResource
+org/acme/resteasyjackson/JacksonResource.java
+ org.acme.resteasyjackson.JacksonResource
+ org.acme.resteasyjackson.JacksonResource$Product

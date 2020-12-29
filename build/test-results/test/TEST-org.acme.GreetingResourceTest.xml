@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.acme.GreetingResourceTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-12-29T14:16:55" hostname="shankar-ThinkPad-L480" time="1.226">
+  <properties/>
+  <testcase name="testHelloEndpoint()" classname="org.acme.GreetingResourceTest" time="1.226"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Dec 29, 2020 7:46:53 PM org.jboss.threads.Version <clinit>
+INFO: JBoss Threads version 3.1.1.Final
+Dec 29, 2020 7:46:54 PM org.jboss.threads.Version <clinit>
+INFO: JBoss Threads version 3.1.1.Final
+Dec 29, 2020 7:46:55 PM io.quarkus.bootstrap.runner.Timing printStartupTime
+INFO: Quarkus 1.10.5.Final on JVM started in 1.663s. Listening on: http://localhost:8081
+Dec 29, 2020 7:46:55 PM io.quarkus.bootstrap.runner.Timing printStartupTime
+INFO: Profile test activated. 
+Dec 29, 2020 7:46:55 PM io.quarkus.bootstrap.runner.Timing printStartupTime
+INFO: Installed features: [cdi, resteasy, resteasy-jackson]
+]]></system-err>
+</testsuite>
