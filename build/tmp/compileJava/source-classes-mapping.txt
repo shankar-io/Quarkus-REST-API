@@ -1,7 +1,15 @@
 org/acme/resteasyjackson/MyObjectMapperCustomizer.java
  org.acme.resteasyjackson.MyObjectMapperCustomizer
-org/acme/GreetingResource.java
- org.acme.GreetingResource
+log4j2/Log4j2LoggerBackend.java
+ log4j2.Log4j2LoggerBackend
+log4j2/Log4j2SimpleLogEvent.java
+ log4j2.Log4j2SimpleLogEvent
 org/acme/resteasyjackson/JacksonResource.java
  org.acme.resteasyjackson.JacksonResource
  org.acme.resteasyjackson.JacksonResource$Product
+log4j2/Log4j2LogDataFormatter.java
+ log4j2.Log4j2LogDataFormatter
+log4j2/Log4j2BackendFactory.java
+ log4j2.Log4j2BackendFactory
+org/acme/GreetingResource.java
+ org.acme.GreetingResource

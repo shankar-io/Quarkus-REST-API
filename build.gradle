@@ -15,6 +15,8 @@ dependencies {
     implementation 'io.quarkus:quarkus-arc'
     testImplementation 'io.quarkus:quarkus-junit5'
     testImplementation 'io.rest-assured:rest-assured'
+    /*compile group: 'com.google.flogger', name: 'flogger-log4j2-backend', version: '0.5.1'*/
+    implementation 'com.google.flogger:flogger-log4j2-backend:0.5'
 }
 
 group 'org.acme'
